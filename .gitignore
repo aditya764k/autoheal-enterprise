@@ -21,3 +21,13 @@ build/
 .DS_Store
 .vscode/
 .antigravity/
+.claude/
+.agents/
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+test_gemini*.py
+
+# Graphify
+graphify-out/
